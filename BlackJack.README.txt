@@ -1,0 +1,5 @@
+In this project I coded the game of BlackJack. 
+
+This is a simplified version where features like 'side bets', 'double-down', 'split', and 'insurance' are not included.
+
+The idea of this game is to get your sum of the value of your cards as close to 21 without going over 21. Whoever is closest to 21 wins!
